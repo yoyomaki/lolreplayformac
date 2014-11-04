@@ -1,4 +1,4 @@
-****League of Legends Replay Shell Script For Mac Users****
+#League of Legends Replay Shell Script For Mac Users
 
 Many websites provide \*.bat file for game replay, where you may find that it does not work on Mac. Download the \*.bat file of the game you wanna watch from any websites, for example *lolking.com*.        
 
